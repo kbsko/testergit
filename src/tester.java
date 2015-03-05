@@ -7,6 +7,7 @@ public class tester {
 
         int a=2;
         int b=7;
+        b=b-a;
 
 
         System.out.println("One Commit"+(a+b));
