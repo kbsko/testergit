@@ -4,6 +4,8 @@
 public class tester {
 
     public static void main(String[] argc) {
+        System.out.println("One Commit");
+
         System.out.println("Tester Git");
     }
 }
